@@ -1,8 +1,8 @@
 module.exports = {
   configureWebpack: {
-    resolve: {
+    reslove: {
       alias: {
-        components: '@/components'
+        component: '@/component'
       }
     }
   }
